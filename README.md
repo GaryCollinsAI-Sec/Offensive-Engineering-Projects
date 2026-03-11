@@ -10,14 +10,13 @@ This repository organizes all my offensive security labs, exercises, and practic
 - **Description:** Conducted controlled exploitation of legacy systems to identify attack paths, followed by remediation and hardening.
 - **Tech/Tools:** Kali Linux, Windows Server, Metasploit, Nmap
 
-### 2. [Offensive Web Security Lab](https://github.com/GaryCollinsAI-Sec/Offensive-Web-Security-Lab)
-- **Description:** Virtualized penetration testing lab with pfSense as gateway, DVWA target, and Kali Linux attacker machine.
-- **Tech/Tools:** DVWA, pfSense, Burp Suite, Kali Linux
+### <h3>2. <a href="https://github.com/GaryCollinsAI-Sec/GhostOps-Lab">GhostOps Lab</a></h3>
+<ul>
+  <li><strong>Description:</strong> Personal cybersecurity operations lab for practicing offensive security, reconnaissance, and penetration testing using a Raspberry Pi target and Kali Linux attacker VM. Designed for educational purposes.</li>
+  <li><strong>Tech/Tools:</strong> Raspberry Pi 3B+, Kali Linux, OWASP Juice Shop, Nmap, Burp Suite, Wireshark/tcpdump, SSH</li>
+</ul>
 
 
-### 3. [Other Project Name](#)
-- **Description:** Brief description of what this project does.
-- **Tech/Tools:** Python, Bash, etc.
 
 
 ---
